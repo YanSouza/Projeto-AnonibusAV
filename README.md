@@ -10,12 +10,12 @@ Login com o Facebook: Permitir que o cliente consiga logar no sistema usando sua
 
 Tecnologias usadas:
 
-React Native
-Javascript
+React Native,
+Javascript,
 Firebase:
-Database
-Auth
-Storage
-Functions
-ImagePicker (Expo)
+Database,
+Auth,
+Storage,
+Functions,
+ImagePicker (Expo),
 Expo
