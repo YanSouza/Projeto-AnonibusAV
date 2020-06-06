@@ -32,4 +32,4 @@ React Native, Javascript, Firebase: Database, Auth, Storage, Functions, ImagePic
 
 QR CODE:
 
-![QR](download.png)
+![QR](download.png) 
