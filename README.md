@@ -1,6 +1,8 @@
 # Projeto-Anonibus
 APS/AV2 823 - DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS 2020/1
 
+Projeto criado para avaliação da matéria de Desenvolvimento de Aplicações Distribuídas e Mobile.
+
 Grupo:
     
     • Nome: Guilherme Mondaini de Souza Sampaio
@@ -17,16 +19,15 @@ Funcionalidades desenvolvidas pelo grupo:
     •  Login com o Facebook.
         ◦ Permitir que o cliente consiga logar no sistema usando sua conta do Facebook.
         
-Projeto criado para avaliação da matéria de Desenvolvimento de Aplicações Distribuídas e Mobile.
-
-Funcionalidades desenvolvidas pelo grupo:
-
-Redefinir senha: Permitir que o usuário consiga redefinir a sua senha.
-
-Login com o Facebook: Permitir que o cliente consiga logar no sistema usando sua conta do Facebook.
-
-Tecnologias usadas:
-
-React Native, Javascript, Firebase: Database, Auth, Storage, Functions, ImagePicker(Expo) e Expo.
+ Tecnologias usadas:
+ 
+    React Native
+    Javascript
+    Firebase: Database
+    Auth
+    Storage
+    Functions
+    ImagePicker(Expo) e Expo.
+        
 
 
