@@ -30,6 +30,3 @@ Tecnologias usadas:
 React Native, Javascript, Firebase: Database, Auth, Storage, Functions, ImagePicker(Expo) e Expo.
 
 
-QR CODE:
-
-![QR](download.png) 
