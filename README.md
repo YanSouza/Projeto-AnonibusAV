@@ -28,6 +28,11 @@ Funcionalidades desenvolvidas pelo grupo:
     Storage
     Functions
     ImagePicker(Expo) e Expo.
+    
+    
+QR CODE:
+
+![QR](download.png)
         
 
 
