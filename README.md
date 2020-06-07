@@ -1,5 +1,5 @@
 # Projeto-Anonibus
-APS/AV2 823 - DESENVOLVIMENTO DE APLICAÇÕES MÓVEIS 2020/1
+APS/AV2 822 – DESENVOLVIMENTO DE APLICAÇÕES DISTRIBUÍDAS 2020/1
 
 Projeto criado para avaliação da matéria de Desenvolvimento de Aplicações Distribuídas e Mobile.
 
